@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/ankitrpathak/NeuralTint.git
+git clone https://github.com/AmanBajpai28/NeuralTint.git
 cd NeuralTint
 ```
 
