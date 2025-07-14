@@ -69,4 +69,4 @@ This project is open-source under the MIT License.
 
 ### 🔗 Connect with Me
 
-If you have any questions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ankitrpathak) or contribute to this repository!
+If you have any questions, feel free to reach out via [LinkedIn](www.linkedin.com/in/amanbajpai28) or contribute to this repository!
